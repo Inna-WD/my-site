@@ -1,0 +1,33 @@
+*
+{
+margin:0;
+padding:0;
+}
+
+.header-properties
+{
+    background-image: url(../img/code.jpeg);
+    opacity=0.3;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    padding: 3rem 3rem;
+}
+
+
+
+h1{
+    /* background-color: aliceblue; */
+    /* background-image: url(../img/photos/code.jpeg); */
+    /* background-color: rgb(25, 75, 69); */
+    padding: 2rem;
+    font-size: 3rem;
+    text-align: center;
+    }
+
+.button-properties
+{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+
+}
